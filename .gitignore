@@ -16,3 +16,10 @@
 # Debug files
 *.gch
 *.pch
+
+# Ignore everything with no dot (but keep dotfiles, .c, .h)
+*
+!*.c
+!*.h
+!.gitignore
+
