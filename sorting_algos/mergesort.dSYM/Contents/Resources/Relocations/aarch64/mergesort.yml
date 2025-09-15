@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/srivastavya/code/data-structure-implementations/sorting_algos/mergesort'
+relocations:     []
+...
